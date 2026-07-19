@@ -1,5 +1,5 @@
 {
-  "id": "vegas.stabilize.actioncam",
+  "id": "com.hereliesaz.azphalt.stabilize-actioncam",
   "version": "1.0.0",
   "name": "Video Stabilization - Action Cam",
   "description": "Cancels out shaky camera movement by inverting scene motion vectors.",
