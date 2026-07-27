@@ -4,9 +4,10 @@
   "name": "Video Stabilization - Action Cam",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
   "description": "Cancels out shaky camera movement by inverting scene motion vectors.",
+  "author": "HereLiesAz",
   "assets": [
     {
       "type": "motion",
